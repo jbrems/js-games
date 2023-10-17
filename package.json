@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "vite dev"
+  },
+  "devDependencies": {
+    "vite": "^4.4.11"
+  }
+}
